@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bertBruynooghe/noFramework/issues"
   },
-  "homepage": "https://github.com/bertBruynooghe/noFramework#readme"
+  "homepage": "https://github.com/bertBruynooghe/noFramework#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
