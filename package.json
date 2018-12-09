@@ -1,0 +1,19 @@
+{
+  "name": "noframework",
+  "version": "1.0.0",
+  "description": "Kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertBruynooghe/noFramework.git"
+  },
+  "author": "Bert Bruynooghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertBruynooghe/noFramework/issues"
+  },
+  "homepage": "https://github.com/bertBruynooghe/noFramework#readme"
+}
